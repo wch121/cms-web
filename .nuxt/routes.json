@@ -1,0 +1,45 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "_name": "_3068d813"
+      },
+      {
+        "name": "index-article",
+        "path": "article",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\article.vue",
+        "chunkName": "pages/index/article",
+        "_name": "_4d8df812"
+      },
+      {
+        "name": "index-call",
+        "path": "call",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\call.vue",
+        "chunkName": "pages/index/call",
+        "_name": "_4b573f2d"
+      },
+      {
+        "name": "index-info",
+        "path": "info",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\info.vue",
+        "chunkName": "pages/index/info",
+        "_name": "_603c817d"
+      },
+      {
+        "name": "index-list",
+        "path": "list",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\list.vue",
+        "chunkName": "pages/index/list",
+        "_name": "_b4535526"
+      }
+    ],
+    "_name": "_388624e2"
+  }
+]
