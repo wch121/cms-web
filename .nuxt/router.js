@@ -4,12 +4,12 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _388624e2 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
-const _3068d813 = () => interopDefault(import('..\\pages\\index\\index.vue' /* webpackChunkName: "pages/index/index" */))
-const _4d8df812 = () => interopDefault(import('..\\pages\\index\\article.vue' /* webpackChunkName: "pages/index/article" */))
-const _4b573f2d = () => interopDefault(import('..\\pages\\index\\call.vue' /* webpackChunkName: "pages/index/call" */))
-const _603c817d = () => interopDefault(import('..\\pages\\index\\info.vue' /* webpackChunkName: "pages/index/info" */))
-const _b4535526 = () => interopDefault(import('..\\pages\\index\\list.vue' /* webpackChunkName: "pages/index/list" */))
+const _02d918f0 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _48a84d92 = () => interopDefault(import('..\\pages\\index\\index.vue' /* webpackChunkName: "pages/index/index" */))
+const _411dd494 = () => interopDefault(import('..\\pages\\index\\article.vue' /* webpackChunkName: "pages/index/article" */))
+const _5ca39dce = () => interopDefault(import('..\\pages\\index\\call.vue' /* webpackChunkName: "pages/index/call" */))
+const _7188e01e = () => interopDefault(import('..\\pages\\index\\info.vue' /* webpackChunkName: "pages/index/info" */))
+const _91ba97e4 = () => interopDefault(import('..\\pages\\index\\list.vue' /* webpackChunkName: "pages/index/list" */))
 
 const emptyFn = () => {}
 
@@ -24,26 +24,26 @@ export const routerOptions = {
 
   routes: [{
     path: "/",
-    component: _388624e2,
+    component: _02d918f0,
     children: [{
       path: "",
-      component: _3068d813,
+      component: _48a84d92,
       name: "index"
     }, {
       path: "article",
-      component: _4d8df812,
+      component: _411dd494,
       name: "index-article"
     }, {
       path: "call",
-      component: _4b573f2d,
+      component: _5ca39dce,
       name: "index-call"
     }, {
       path: "info",
-      component: _603c817d,
+      component: _7188e01e,
       name: "index-info"
     }, {
       path: "list",
-      component: _b4535526,
+      component: _91ba97e4,
       name: "index-list"
     }]
   }],

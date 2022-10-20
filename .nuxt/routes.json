@@ -1,45 +1,45 @@
 [
   {
     "path": "/",
-    "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index.vue",
+    "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\cms-web1\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
     "children": [
       {
         "name": "index",
         "path": "",
-        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\index.vue",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\cms-web1\\\\pages\\\\index\\\\index.vue",
         "chunkName": "pages/index/index",
-        "_name": "_3068d813"
+        "_name": "_48a84d92"
       },
       {
         "name": "index-article",
         "path": "article",
-        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\article.vue",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\cms-web1\\\\pages\\\\index\\\\article.vue",
         "chunkName": "pages/index/article",
-        "_name": "_4d8df812"
+        "_name": "_411dd494"
       },
       {
         "name": "index-call",
         "path": "call",
-        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\call.vue",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\cms-web1\\\\pages\\\\index\\\\call.vue",
         "chunkName": "pages/index/call",
-        "_name": "_4b573f2d"
+        "_name": "_5ca39dce"
       },
       {
         "name": "index-info",
         "path": "info",
-        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\info.vue",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\cms-web1\\\\pages\\\\index\\\\info.vue",
         "chunkName": "pages/index/info",
-        "_name": "_603c817d"
+        "_name": "_7188e01e"
       },
       {
         "name": "index-list",
         "path": "list",
-        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\pages\\\\index\\\\list.vue",
+        "component": "D:\\\\vs code\\\\project\\\\aka\\\\cms\\\\cms-web\\\\cms-web1\\\\pages\\\\index\\\\list.vue",
         "chunkName": "pages/index/list",
-        "_name": "_b4535526"
+        "_name": "_91ba97e4"
       }
     ],
-    "_name": "_388624e2"
+    "_name": "_02d918f0"
   }
 ]
